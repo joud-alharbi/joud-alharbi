@@ -7,7 +7,7 @@
 
   
 ### Tools & Technologies
-- 📊 **Languages:** Python
+- 📊 **Languages:** Python, SQL
 - 📚 **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 - 📊 **Data Visualization:** Matplotlib, Seaborn
 - 🛠️ **Tools:** Jupyter Notebook, Git, GitHub, Streamlit
